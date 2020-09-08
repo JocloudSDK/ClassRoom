@@ -4,6 +4,12 @@
 
 This open source sample project demonstrates the related functions of the demo of the interactive live broadcast large class scene.
 
+Windows Demo: [Click to download](https://jszc-bj.oss-cn-beijing.aliyuncs.com/ClassRoom/PC/ClassRoom_Windows_v1.1.3_20200724.zip)
+
+Android Demo: [Click to download](https://jszc-bj.oss-cn-beijing.aliyuncs.com/ClassRoom/Android/ClassRoom_Android_v1.1.3_20200724.apk)  
+
+iOS Demo: [Click to download](https://apps.apple.com/cn/app/%E8%81%9A%E8%81%94%E4%BA%91%E4%BA%91%E6%95%99%E8%82%B2/id1526249004?l=en)
+
 ## 1 Project Description
 
 The interactive live big class is a Demo example based on the educational scene. You can compile and run the sample code to experience it. The following functions are included in this sample project：
