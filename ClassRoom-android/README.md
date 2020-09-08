@@ -4,9 +4,11 @@ English Version： [English](README.en.md)
 
 这个开源示例项目演示了互动直播大班课场景Demo的相关功能。
 
-Windows Demo: [点击下载](http://resource.sunclouds.com/ClassRoom_Setup_1.1.0.exe)
+Windows Demo: [点击下载](https://jszc-bj.oss-cn-beijing.aliyuncs.com/ClassRoom/PC/ClassRoom_Windows_v1.1.3_20200724.zip)
 
-Android Demo: [点击下载](http://resource.sunclouds.com/ClassRoom-1.1.0-59-official.apk)  
+Android Demo: [点击下载](https://jszc-bj.oss-cn-beijing.aliyuncs.com/ClassRoom/Android/ClassRoom_Android_v1.1.3_20200724.apk)  
+
+iOS Demo: [点击下载](https://apps.apple.com/cn/app/%E8%81%9A%E8%81%94%E4%BA%91%E4%BA%91%E6%95%99%E8%82%B2/id1526249004?l=en)
 
 ## 1 项目简介
 
